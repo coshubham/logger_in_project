@@ -1,0 +1,49 @@
+Installing Libary for this logger projects
+
+pip install requests beautifulsoup4 pandas numpy matplotlib
+ 
+ Sure! Here's a **3-line explanation for each library**:
+
+---
+
+🔹 **`requests`**
+Used to send HTTP requests like GET, POST, etc.
+Helps fetch data from websites or APIs easily.
+Essential for web scraping or API integration.
+
+---
+
+🔹 **`beautifulsoup4`**
+Parses HTML and XML content.
+Extracts specific elements like text, links, images.
+Often used with `requests` for web scraping.
+
+---
+
+🔹 **`pandas`**
+Handles structured data using DataFrames.
+Used for cleaning, filtering, and analyzing datasets.
+Great for working with CSV, Excel, or SQL data.
+
+---
+
+🔹 **`numpy`**
+Supports fast numerical operations with arrays.
+Foundation for many data science and ML libraries.
+Efficient for mathematical and statistical computations.
+
+---
+
+🔹 **`matplotlib`**
+Used to create static, animated, and interactive plots.
+Supports line, bar, pie, histogram, etc.
+Helps visualize trends and patterns in data.
+
+---
+
+
+what logger show?
+
+TIMESTAMP                       LOG_TYPE                       ACTION                       DSER: USER_NAME/ID
+"%Y-%m-%d %H:%M:%S"
+2025-07-30 06:40:08
